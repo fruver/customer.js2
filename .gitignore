@@ -1,0 +1,16 @@
+node_modules
+dist
+yarn-error.log
+**/tsconfig.json
+!/tsconfig.json
+.vscode
+**/.npmignore
+!/.npmignore
+yarn.lock
+
+.DS_Store
+dist/
+node_modules/
+thumbs.db
+.idea/
+.env
